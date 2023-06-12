@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+emoji
+nltk
+tensorflow
+scikit-learn
+gensim
+keras
